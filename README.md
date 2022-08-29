@@ -1,7 +1,10 @@
 //jstest.js este un file pentru cod test, pentru a separa codul de baza si deja implementat de cel pe care il testez
 
 
-! Extensie pentru salvarea si manipularea linkurilor utile, prima versiune
+
+  Extensie pentru salvarea si manipularea linkurilor utile, prima versiune
+
+  Numele 'Repono' este traducerea din latina a cuvantului 'stocare', un cuvant care descrie aplicatia
 
 Input-ul este self-explanatory, se introduce un link important/de memorat pentru utilizator dupa, apasand Save Input linkul va fi salvat in extensie
 
